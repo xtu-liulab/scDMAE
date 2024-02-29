@@ -11,6 +11,6 @@ All benchmark model parameters are selected as in Supplementary Note 1.
 
 The installation package used for downstream analysis is described as follows:
 The SC3 package was downloaded from https://github.com/hemberg-lab/SC3.
-The SC3s package was downloaded fromhttps://github.com/hemberg-lab/sc3s.
-The edgeR package was downloaded fromhttps://github.com/OliverVoogd/edgeR.
+The SC3s package was downloaded from https://github.com/hemberg-lab/sc3s.
+The edgeR package was downloaded from https://github.com/OliverVoogd/edgeR.
 The Monocle3 was downloaded from https://github.com/cole-trapnell-lab/monocle3.
